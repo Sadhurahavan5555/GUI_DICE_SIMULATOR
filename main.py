@@ -17,7 +17,7 @@ heading = Label(window,text='ROLL THE DICE',font=('bold',55),bg='blue')
 heading.pack(fill=X)
 
 
-button = Button(window,text='Roll',font=('normal',25),command=lambda:roll())
+button = Button(window,text='Roll',font=('normal',45),bg='white',command=lambda:roll())
 button.pack()
 
 window.mainloop()
