@@ -20,8 +20,6 @@ This is a simple Python application built using the Tkinter library that simulat
    git clone https://github.com/yourusername/roll-the-dice.git
    cd roll-the-dice
 
-
-
 2. Ensure you have Python installed on your machine. You can download it from python.org.
 
 3. Run the application:
